@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    font-size: larger;
+    background-image: url('https://wallpaperaccess.com/full/4660871.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+    font-size: 3rem;
+    color: #16213E;
+    text-shadow: 3px 0 #c9d7d3;
+  }
+  .ritam
+  {
+    font-weight: bold;
+      font-size: 1.5rem;
+      color: #D61C4E;
+  }
+#title:hover {
+    color: #591a1a;
+    font-weight: bold;
+    font-style: italic;
+    font-weight: 2.5rem;
+  }
+  .colo{
+    color: #513252;
+  }
+  .hre{
+    color: #231955;
+  }
+.drum {
+    outline: none;
+    font-size: 1.25rem;
+    line-height: .5;
+    font-weight: 30;
+    color: #080808;
+    border-radius: 15px;
+    display: filled;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    background-color: rgb(136, 247, 195);
+    transition: all ease-in-out 0.02s;
+    cursor: pointer;
+  }
